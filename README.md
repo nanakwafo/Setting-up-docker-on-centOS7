@@ -1,4 +1,4 @@
-# Setting-up-docker-on-centOs
+# Setting-up-docker-on-centOS7
 This contains instructions on setting up docker on a centos env
 
 Install required packages:
